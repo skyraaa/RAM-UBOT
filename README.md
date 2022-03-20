@@ -7,11 +7,11 @@
 # USERBOT TELEGRAM YANG MENGANDUNG MODUL TOXIC, JANGAN ASAL KETIK YA TOLOL!
 
 <p align="center">
-  <a href="https://github.com/ramadhani892/RAM-UBOT/fork">
+  <a href="https://github.com/skyraa/SKY-UBOT/fork">
     <img src="https://img.shields.io/github/forks/ramadhani892/RAM-UBOT?label=Fork&style=social">
     
   </a>
-  <a href="https://github.com/ramadhani892/RAM-UBOT">
+  <a href="https://github.com/skyraa/SKY-UBOT">
     <img src="https://img.shields.io/github/stars/ramadhani892/RAM-UBOT?style=social">
   </a>
 </p>  
@@ -34,4 +34,4 @@ TERIMAKASIH UNTUK
 *   [VICKY](https://t.me/vckyouubitch) - ⚡Geez-Userbot⚡
 *   [KOALA](https://t.me/manusiarakitann) - KAMPANG BOT
 *   [TEAMULTROID](https://github.com/TeamUltroid) - ULTROID
-*    DAN MASIH BANYAK LAGI TOT
+*    DAN MASIH BANYAK LAGI :)
